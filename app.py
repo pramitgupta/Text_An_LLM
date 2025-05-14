@@ -101,4 +101,4 @@ with gr.Blocks() as demo:
                   inputs=[file_input, id_col, text_col, stopword_input],
                   outputs=[plot_output, wordcloud_gallery])
 
-demo.launch()
+demo.launch(share=True)
