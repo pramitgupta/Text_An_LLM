@@ -1,0 +1,8 @@
+gradio
+pandas
+matplotlib
+seaborn
+nltk
+wordcloud
+scikit-learn
+networkx
